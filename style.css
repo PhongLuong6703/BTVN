@@ -1,9 +1,13 @@
+body {
+  width: 500px;
+  margin: auto;
+}
 #div_1 {
   background-color: #ffe4e1;
   padding-left: 30px;
   padding-top: 20px;
-  width: 250px;
-  height: 45px;
+  width: 450px;
+  height: 80px;
   font-size: 20px;
   color: #7b0000;
   border-left: 0px;
