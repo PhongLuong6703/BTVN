@@ -46,6 +46,7 @@ body {
   height: 27px;
   padding-top: 5px;
   padding-left: 5px;
+  margin-top: -5px;
 }
 #intro {
   color: #757575;
