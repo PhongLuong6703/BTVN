@@ -70,3 +70,11 @@ body {
   margin-left: 20px;
   margin-top: 17px;
 }
+.footer {
+  margin-top: 25px;
+  height: 90px;
+}
+#copyright {
+  margin-left: 370px;
+  margin-top: 30px;
+}
