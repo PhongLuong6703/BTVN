@@ -54,12 +54,10 @@ body {
   margin-top: -15px;
   line-height: 1.5;
 }
-.button {
-  margin-left: 20px;
-  margin-top: 20px;
-  border-radius: 5px;
-}
 #button {
-  color: white;
   text-decoration: none;
+  color: white;
+  }
+.button {
+  background-color: rebeccapurple;
 }
