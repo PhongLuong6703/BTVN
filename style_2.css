@@ -18,3 +18,11 @@ body {
   margin-top: 25px;
   font-size: 20px;
 }
+#sony {
+  width: 800px;
+  height: 645px;
+  margin-left:300px;
+  margin-top: 15px;
+  border: 1px solid #c9c9c9;
+  border-radius: 8px;
+}
