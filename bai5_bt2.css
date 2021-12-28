@@ -1,0 +1,7 @@
+.navigation {
+  display: flex;
+  list-style: none;
+  position: flex;
+  background-color: lightblue;
+  width: 100%
+}
