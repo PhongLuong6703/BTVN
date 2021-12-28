@@ -60,4 +60,14 @@ button {
   width: 200px;
   height: 120px;
   font-size: 18px;
+  font-weight: 700;
+}
+button:hover {
+  color: #466995;
+  background-color: #bed5db;
+  border: 1px solid #466995;
+  width: 200px;
+  height: 120px;
+  font-size: 18px;
+  font-weight: 700;
 }
