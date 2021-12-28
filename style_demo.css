@@ -29,3 +29,18 @@ ul {
   width: 100%;
   font-family: "Oswald", sans-serif;
 }
+.question_x {
+  color: #466995;
+  font-size: 18px;
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+  margin-top: 20px;
+  font-weight: 300;
+  letter-spacing: 2px;
+}
+.question {
+  margin-top: 20px;
+  font-family: "Varela Round", sans-serif;
+  font-size: 26px;
+  
+}
