@@ -47,4 +47,14 @@ ul {
   font-weight: 100;
   font-family: "Varela Round", sans-serif;
 }
-.answer {}
+.answer {
+  margin-top: 30px;
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+}
+button {
+  color: #466995;
+  background-color: #FFF;
+  border: 1px solid #466995;
+}
