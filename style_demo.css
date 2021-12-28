@@ -18,6 +18,10 @@ ul {
   font-size: 16px;
   font-family: "Oswald", sans-serif;
 }
+a {
+  text-decoration: none;
+  color:white;
+}
 .welcome {
   color: #466995;
   font-size: 15px;
