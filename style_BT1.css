@@ -93,9 +93,18 @@ footer {
 .answer {
   border: 1px solid #466995;
   margin: 20px;
+  display: inline-block;
 }
 
 .answer:hover {
   background: #C0D6DF;
   color: #FFF;
+}
+.footer {
+  background-color: #466995;
+  height: 70px;
+  width: 100%;
+  font-size: 50px;
+  text-align: center;
+  position: fixed;
 }
