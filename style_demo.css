@@ -39,8 +39,12 @@ ul {
   letter-spacing: 2px;
 }
 .question {
+  color: #333;
   margin-top: 20px;
   font-family: "Varela Round", sans-serif;
   font-size: 26px;
-  
+  text-align: center;
+  font-weight: 100;
+  font-family: "Varela Round", sans-serif;
 }
+.answer {}
