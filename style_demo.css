@@ -18,3 +18,19 @@ ul {
   font-size: 16px;
   font-family: "Oswald", sans-serif;
 }
+.welcome {
+  color: #466995;
+  font-size: 15px;
+  position: flex;
+  background-color:#DBE9EE;
+  padding-top: 40px;
+  text-align: center;
+  height: 180px;
+  width: 100%;
+}
+#welcome 
+}
+p {
+  color: #333;
+  font-size: 18px;
+}
