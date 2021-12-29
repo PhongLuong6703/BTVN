@@ -18,11 +18,17 @@ ul {
 }
 .content {
   float: none;
-  margin-left: 200px;
+  margin-left: 250px;
   margin-top: 40px;
 }
 li {
+  position: relative;
+  top: -40px;
   background-color: #33b5e6;
   height: 30px;
-  width: 100px;
+  width: 150px;
+}
+p {
+  position:relative;
+  top: 5px;
 }
