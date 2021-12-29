@@ -27,6 +27,7 @@ li {
   background-color: #33b5e6;
   height: 30px;
   width: 150px;
+  align-items: center;
 }
 p {
   position:relative;
