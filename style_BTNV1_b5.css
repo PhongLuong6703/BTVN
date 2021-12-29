@@ -1,10 +1,9 @@
 code {
-  justify-content: center;
   background: #2db34a;
   border-radius: 6px;
   color: #fff;
   padding: 24px 15px;
-  text-align: center;
+  justify-content: center;
   display: flex;
   }
 header,
@@ -18,7 +17,6 @@ footer {
 section {
   width: 30%;
   display: inline-block;
-  text-align: center;
 }
 footer {
   margin-bottom: 0;
