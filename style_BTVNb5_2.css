@@ -14,12 +14,15 @@ ul {
   list-style: none;
   display: flex;
   flex-direction: column;
+  gap: 10px;
 }
 .content {
   float: none;
-  margin-left: 250px;
+  margin-left: 200px;
+  margin-top: 40px;
 }
 li {
   background-color: #33b5e6;
-  
+  height: 30px;
+  width: 100px;
 }
