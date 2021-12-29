@@ -5,15 +5,18 @@ code {
   padding: 24px 15px;
   text-align: center;
   display: flex;
-}
+  }
 header,
 section,
 aside,
 footer {
   margin: 0 1.5% 24px 1.5%;
+  text-align: center;
 }
 section {
-  display: flex;
+  width: 30%;
+  display: inline-block;
+  text-align: center;
 }
 footer {
   margin-bottom: 0;
