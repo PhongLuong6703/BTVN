@@ -1,3 +1,5 @@
 header {
   display: grid;
-}
+  background-color: red;
+  grid-template-columns: auto auto auto;
+ }
