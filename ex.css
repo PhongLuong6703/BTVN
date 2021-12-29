@@ -1,5 +1,10 @@
 header {
   display: grid;
-  background-color: red;
-  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  grid-template-columns: 100px 200px 300px;
+  padding: 20px;
  }
+div {
+  background-color: red;
+  border: 2px solid green;
+}
