@@ -7,23 +7,26 @@ header {
   background-color: #663398;
   width: 100%;
   height: 110px;
-  margin-top: -30px;
+  margin-top: -26px;
 }
 h1 {
   color: white;
-  padding-top: px;
-  margin-left: 340px;
+  padding-top: 30px;
+  padding-left: 340px;
   font-size: 39px;
 }
 b {
-  margin-left: 340px;
-  margin-top: 30px;
   font-size: 28px;
+  position: relative;
+  left: 340px;
+  top: 30px;
 }
 .products {
   display: inline-grid;
   grid-template-columns: 800px;
-  margin-left: 340px;
+  position: relative;
+  left: 340px;
+  top: 45px;
 }
 .sony {
   display: inline-grid;
@@ -31,12 +34,13 @@ b {
   border-radius: 8px;
   box-shadow: 2px 2px 4px rgb(0 0 0 / 15%);
   justify-content: center;
+  grid-row-gap: 20px 20px 20px;
 }
 #img {
   width: 760px;
   height: 430px;
-  margin: 20px 20px 0px 20px;
   border-radius: 8px 8px 0px 0px;
+  margin: 20px 20px 0px 20px;
 }
 #price {
   display: inline-block;
