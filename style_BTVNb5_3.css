@@ -52,3 +52,7 @@ b {
   padding-left: 5px;
   margin-top: -5px;
 }
+h3, #intro {
+  margin-left: 20px;
+}
+
