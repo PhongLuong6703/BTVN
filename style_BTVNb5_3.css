@@ -29,7 +29,7 @@ b {
   top: 45px;
 }
 .sony {
-  display: grid;
+  display: inline-grid;
   border: 1px solid #c9c9c9;
   border-radius: 8px;
   box-shadow: 2px 2px 4px rgb(0 0 0 / 15%);
@@ -51,7 +51,8 @@ b {
   padding-left: 5px;
   margin-top: -5px;
 }
-h3, #intro {
+h3,
+#intro {
   margin-left: 20px;
 }
 h3 {
@@ -76,10 +77,10 @@ h3 {
   border: none;
 }
 .footer {
-  margin-top: 25px;
+  margin-top: 70px;
   height: 90px;
 }
 #copyright {
-  margin-left: 370px;
+  margin-left: 340px;
   margin-top: 30px;
 }
