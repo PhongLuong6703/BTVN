@@ -29,12 +29,12 @@ b {
   top: 45px;
 }
 .sony {
-  display: inline-grid;
+  display: grid;
   border: 1px solid #c9c9c9;
   border-radius: 8px;
   box-shadow: 2px 2px 4px rgb(0 0 0 / 15%);
   justify-content: center;
-  grid-row-gap: 20px 20px 20px;
+  grid-gap: 20px;
 }
 #img {
   width: 760px;
@@ -55,4 +55,22 @@ b {
 h3, #intro {
   margin-left: 20px;
 }
-
+h3 {
+  color: rebeccapurple;
+}
+#intro {
+  color: #757575;
+}
+#button {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+}
+.button {
+  background-color: rebeccapurple;
+  width: 130px;
+  height: 35px;
+  border-radius: 5px;
+  margin-left: 20px;
+  margin-top: 17px;
+}
