@@ -1,0 +1,23 @@
+code {
+  background: #2db34a;
+  border-radius: 6px;
+  color: #fff;
+  padding: 24px 15px;
+  justify-content: center;
+  display: flex;
+  }
+header,
+section,
+aside,
+footer {
+  margin: 0 1.5% 24px 1.5%;
+  text-position: relative;
+  text-align: center;
+}
+section {
+  width: 30%;
+  display: inline-block;
+}
+footer {
+  margin-bottom: 0;
+}

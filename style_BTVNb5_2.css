@@ -1,0 +1,57 @@
+body {
+  width: 780px;
+  margin: auto;
+}
+.header {
+  width: 100%;
+  height: 100px;
+  background-color: #808080;
+  border: 1px solid black;
+  color: white;
+}
+#chania {
+  position: relative;
+  top: 10px;
+  left: 20px;
+}
+ul {
+  float: left;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.content {
+  float: none;
+  margin-left: 230px;
+  margin-top: 40px;
+}
+li {
+  position: relative;
+  top: -40px;
+  background-color: #33b5e6;
+  height: 30px;
+  width: 150px;
+  color: white;
+}
+p {
+  position:relative;
+  top: -10px;
+  left: 10px;
+}
+#city {
+  position:relative;
+  top: -10px;
+}
+.footer {
+  width: 100%;
+  height:80px;
+  background-color: #808080;
+  color: white;
+  border: 1px solid black;
+}
+#footer {
+  position: relative;
+  top: 15px;
+  left: -170px;
+}
